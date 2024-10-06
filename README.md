@@ -1,6 +1,6 @@
 # Ekart
 
-
+### Output :
 
 ![1728217303221](image/README/1728217303221.png)
 
